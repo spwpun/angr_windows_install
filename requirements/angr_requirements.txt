@@ -5,7 +5,7 @@ futures==3.1.1
 progressbar==2.3
 mulpyplexer==0.07
 cooldict==1.02
-ana=0.03
+ana==0.03
 archinfo==6.7.4.12
 pyvex==6.7.4.12
 claripy==6.7.4.12
